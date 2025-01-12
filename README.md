@@ -1,7 +1,11 @@
-  <img align="right" width="60%" src="https://github-readme-stats.vercel.app/api?username=odboy-tianjun&show_icons=true&theme=dracula" />
-  <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odboy-tianjun&show_icons=true&theme=dracula&layout=compact" />
+# Hey, I'm <a href="https://www.odboy.cn" target="_blank">Odboy</a>, Nice to see you! 👋👋👋 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/odboy-tianjun/">
 
-# 你好👋，我是Odboy。
+<br>
+<p>
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=odboy-tianjun&show_icons=true&theme=dracula" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odboy-tianjun&show_icons=true&theme=dracula&layout=compact" />
+</p>
+<br>
 
 - 👨‍💻 全网同名Odboy(壮壮)
 - 🧑 一个本科毕业多年的大学生🐂🐴，现居上海，就职于一家快递公司。
@@ -35,6 +39,18 @@ Odboy，one dream boy，意为一个有梦想的男孩。但是事与愿为，�
 如今我对开发也有些乏味，想要重新找回曾经的那股折腾劲。或许会考虑换个赛道，AI 大模型？IOS
 开发与逆向？Rust？硬件开发？总之别让自己闲下来，只有忙碌才能让每天过得充实而有意义。
 
+### 我会什么
+
+- Window BAT自动化脚本
+- 易语言程序 (能写但不想写，因为开发体验很差，我会考虑用其他技术平替)
+- Linux Shell自动化脚本
+- 中间件安装配置与应用（nginx、ansible、zookeeper、mysql、redis等）
+- 容器化（docker、k8s）
+- 原生Android (曾经写过但很久没写了)
+- Electron (曾经写过但很久没写了)
+- 小程序 (能写但不想写，因为开发体验很差，特指 uni-app)
+- Web 全栈开发 (Vue.js/React.js 全栈开发，后端Java、Python、Go)
+
 ### 兴趣爱好
 
 - ***🎤K歌***
@@ -52,23 +68,6 @@ Odboy，one dream boy，意为一个有梦想的男孩。但是事与愿为，�
 - ***🤖编程开发***
     - 将想法付诸实践, 享受创造的乐趣。
 
-### 我会什么
-
-- Window BAT自动化脚本
-- 易语言程序 (能写但不想写，因为开发体验很差，我会考虑用其他技术平替)
-- Linux Shell自动化脚本
-- 中间件安装配置与应用（nginx、ansible、zookeeper、mysql、redis等）
-- 容器化（docker、k8s）
-- 原生Android (曾经写过但很久没写了)
-- Electron (曾经写过但很久没写了)
-- 小程序 (能写但不想写，因为开发体验很差，特指 uni-app)
-- Web 全栈开发 (Vue.js/React.js 全栈开发，后端Java、Python、Go)
-
-### 我的主旨
-
-- 文档即手册, 步骤明细
-- 拒绝埋坑, 提供源码
-
 ### 结束语
 
 严格来说，我不算专业或技术很强程序员。只是在工作与生活找到了一种平衡，我不认为工作是一件很 “重要” 的事，自己才最重要，健康、家人朋友才是。
@@ -76,8 +75,6 @@ Odboy，one dream boy，意为一个有梦想的男孩。但是事与愿为，�
 个人来说，程序员这条路不是长久的选择，人会老会失业。一辈子只做一件事也太无趣吧，人生苦短，可以多去尝试。
 
 接下来，会在其它的领域去做点东西。未来之路还是要思考怎么走。
-
-迷茫的人们，总会在意小人说的话，那是因为他们嫉妒你的才华，所以才会处处给你施绊，让你走向自我否定且毁灭的路。如果你认真了，那你就输了。（唯独这句话对小人无效(*^▽^*)）
 
 ### 联系方式
 
