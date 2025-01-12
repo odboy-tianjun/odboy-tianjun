@@ -1,3 +1,6 @@
+  <img align="right" width="60%" src="https://github-readme-stats.vercel.app/api?username=odboy-tianjun&show_icons=true&theme=dracula" />
+  <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odboy-tianjun&show_icons=true&theme=dracula&layout=compact" />
+
 # 你好👋，我是Odboy。
 
 - 👨‍💻 全网同名Odboy(壮壮)
