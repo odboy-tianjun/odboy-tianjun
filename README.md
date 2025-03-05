@@ -1,4 +1,4 @@
-# Hey, I'm <a href="https://www.odboy.cn" target="_blank">Odboy</a>, Nice to see you! 👋👋👋 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/odboy-tianjun/">
+# Hey, I'm <a href="[https://blog.odboy.cn](https://blog.odboy.cn)" target="_blank">Odboy</a>, Nice to see you! 👋👋👋 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/odboy-tianjun/">
 
 <br>
 <p>
