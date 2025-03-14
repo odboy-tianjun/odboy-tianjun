@@ -7,9 +7,6 @@
 </p>
 <br>
 
-<img height="300" src="https://github-readme-activity-graph.vercel.app/graph?username=odboy-tianjun&bg_color=ffffff&color=000000&line=04e61b&point=606266&area=true&hide_border=true" />
-<br>
-
 - 👨‍💻 全网同名Odboy
 - 🧑 一个本科毕业多年的大学生🐂🐴，现居上海，就职于一家快递公司。
 - 🐛 曾写过两年的神马语言，在此期间接触了自动化运维，现在主攻Java开发。
@@ -228,6 +225,9 @@ Odboy，one dream boy，意为一个有梦想的男孩。一心一意干事业�
 - Electron (曾经写过但很久没写了)
 - 小程序 (能写但不想写，因为开发体验很差，特指 uni-app)
 - Web 全栈开发 (Vue.js/React.js 全栈开发，后端Java、Python、Go)
+
+### 在线活跃
+<img height="300" src="https://github-readme-activity-graph.vercel.app/graph?username=odboy-tianjun&bg_color=ffffff&color=000000&line=04e61b&point=606266&area=true&hide_border=true" />
 
 ### 兴趣爱好
 
