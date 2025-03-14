@@ -7,7 +7,7 @@
 </p>
 <br>
 
-<img height="200" src="https://github-readme-activity-graph.vercel.app/graph?username=odboy-tianjun&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true" />
+<img height="300" src="https://github-readme-activity-graph.vercel.app/graph?username=odboy-tianjun&bg_color=ffffff&color=000000&line=04e61b&point=606266&area=true&hide_border=true" />
 <br>
 
 - 👨‍💻 全网同名Odboy
