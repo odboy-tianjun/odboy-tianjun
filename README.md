@@ -32,186 +32,136 @@ Odboy，one dream boy，意为一个有梦想的男孩。一心一意干事业�
 
 ### 我使用过并感兴趣的工具和技术
 <table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=py&theme=light" alt="icon"
-        width="65" height="65" />
-      </a>
-      <br>
-      Python
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=vue&theme=light" alt="icon"
-        width="65" height="65" />
-      </a>
-      <br>
-      Vue
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" alt="icon"
-      width="65" height="65" />
-      <br>
-      Javascript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" width="65"
-      height="65" alt="Rest API" />
-      <br>
-      Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=kubernetes" width="65"
-      height="65" alt="Rest API" />
-      <br>
-      Kubernetes
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nginx" alt="icon"
-      width="65" height="65" />
-      <br>
-      Nginx
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ansible" alt="icon"
-      width="65" height="65" />
-      <br>
-      Ansible
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=gitlab&theme=light" width="65" height="65"
-      alt="GitLab" />
-      <br>
-      GitLab
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="65" height="65"
-      alt="HTML" />
-      <br>
-      HTML
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="css"
-      />
-      <br>
-      CSS
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=jquery" width="65" height="65"
-      alt="jquery" />
-      <br>
-      JQuery
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=flask&theme=light" width="65" height="65"
-      alt="jquery" />
-      <br>
-      Flask
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" width="65" height="65"
-      alt="jquery" />
-      <br>
-      MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=java&theme=light" width="65" height="65"
-      alt="jquery" />
-      <br>
-      Java
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=maven&theme=light" alt="icon"
-      width="65" height="65" />
-      <br>
-      Maven
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git"
-      />
-      <br>
-      Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=redis" width="65" height="65"
-      alt="Redis" />
-      <br>
-      Redis
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postman" width="65" height="65"
-      alt="Postman" />
-      <br>
-      Postman
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux&theme=light" width="65" height="65"
-      alt="Linux" />
-      <br>
-      Linux
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=sqlite" width="65"
-      height="65" alt="dart" />
-      <br>
-      Sqlite3
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=apollo" width="65"
-      height="65" alt="dart" />
-      <br>
-      Apollo
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs&theme=light" width="65" height="65"
-      alt="Redis" />
-      <br>
-      Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ps" width="65" height="65"
-      alt="Redis" />
-      <br>
-      Photoshop
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="65" height="65"
-      alt="Redis" />
-      <br>
-      React
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=prometheus" width="65" height="65"
-      alt="Redis" />
-      <br>
-      Prometheus
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github&theme=light" width="65"
-      height="65" alt="dart" />
-      <br>
-      Github
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=go" width="65"
-      height="65" alt="dart" />
-      <br>
-      Go
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=idea" width="65"
-      height="65" alt="dart" />
-      <br>
-      IDEA
-    </td>
-  </tr>
+	<tr>
+		<td align="center" width="96">
+			<img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML" />
+			<br> HTML
+		</td>
+		<td align="center" width="96">
+			<img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="css" />
+			<br> CSS
+		</td>
+		<td align="center" width="96">
+			<img src="https://skillicons.dev/icons?i=js" alt="icon" width="65" height="65" />
+			<br> Javascript
+		</td>
+		<td align="center" width="96">
+			<img src="https://skillicons.dev/icons?i=jquery" width="65" height="65" alt="jquery" />
+			<br> JQuery
+		</td>
+		<td align="center" width="96">
+			<img src="https://skillicons.dev/icons?i=nodejs&theme=light" width="65" height="65" alt="Redis" />
+			<br> Node.js
+		</td>
+		<td align="center" width="96">
+			<a href="#macropower-tech">
+				<img src="https://skillicons.dev/icons?i=vue&theme=light" alt="icon" width="65" height="65" />
+			</a>
+			<br> Vue
+		</td>
+		<td align="center" width="96">
+			<img src="https://skillicons.dev/icons?i=react" width="65" height="65" alt="Redis" />
+			<br> React
+		</td>
+	</tr>
+	<tr>
+		<td align="center" width="96">
+			<img src="https://skillicons.dev/icons?i=idea" width="65" height="65" alt="dart" />
+			<br> IDEA
+		</td>
+		<td align="center" width="96">
+			<a href="#macropower-tech">
+				<img src="https://skillicons.dev/icons?i=py&theme=light" alt="icon" width="65" height="65" />
+			</a>
+			<br> Python
+		</td>
+		<td align="center" width="96">
+			<img src="https://skillicons.dev/icons?i=java&theme=light" width="65" height="65" alt="jquery" />
+			<br> Java
+		</td>
+		<td align="center" width="96">
+			<img src="https://skillicons.dev/icons?i=go" width="65" height="65" alt="dart" />
+			<br> Go
+		</td>
+		<td align="center" width="96">
+			<img src="https://skillicons.dev/icons?i=flask&theme=light" width="65" height="65" alt="jquery" />
+			<br> Flask
+		</td>
+		<td align="center" width="96">
+			<img src="https://skillicons.dev/icons?i=spring&theme=light" width="65" height="65" alt="jquery" />
+			<br> Spring
+		</td>
+		<td align="center" width="96">
+			<img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
+			<br> Git
+		</td>
+	</tr>
+	<tr>
+		<td align="center" width="96">
+			<img src="https://skillicons.dev/icons?i=docker" width="65" height="65" alt="Rest API" />
+			<br> Docker
+		</td>
+		<td align="center" width="96">
+			<img src="https://skillicons.dev/icons?i=kubernetes" width="65" height="65" alt="Rest API" />
+			<br> Kubernetes
+		</td>
+		<td align="center" width="96">
+			<img src="https://skillicons.dev/icons?i=mysql" width="65" height="65" alt="jquery" />
+			<br> MySQL
+		</td>
+		<td align="center" width="96">
+			<img src="https://skillicons.dev/icons?i=nginx" alt="icon" width="65" height="65" />
+			<br> Nginx
+		</td>
+		<td align="center" width="96">
+			<img src="https://skillicons.dev/icons?i=ansible" alt="icon" width="65" height="65" />
+			<br> Ansible
+		</td>
+		<td align="center" width="96">
+			<img src="https://skillicons.dev/icons?i=redis" width="65" height="65" alt="Redis" />
+			<br> Redis
+		</td>
+		<td align="center" width="96">
+			<img src="https://skillicons.dev/icons?i=maven&theme=light" alt="icon" width="65" height="65" />
+			<br> Maven
+		</td>
+	</tr>
+	<tr>
+		<td align="center" width="96">
+			<img src="https://skillicons.dev/icons?i=github&theme=light" width="65" height="65" alt="dart" />
+			<br> Github
+		</td>
+		<td align="center" width="96">
+			<img src="https://skillicons.dev/icons?i=gitlab&theme=light" width="65" height="65" alt="GitLab" />
+			<br> GitLab
+		</td>
+		<td align="center" width="96">
+			<img src="https://skillicons.dev/icons?i=postman" width="65" height="65" alt="Postman" />
+			<br> Postman
+		</td>
+		<td align="center" width="96">
+			<img src="https://skillicons.dev/icons?i=linux&theme=light" width="65" height="65" alt="Linux" />
+			<br> Linux
+		</td>
+		<td align="center" width="96">
+			<img src="https://skillicons.dev/icons?i=sqlite" width="65" height="65" alt="dart" />
+			<br> Sqlite3
+		</td>
+		<td align="center" width="96">
+			<img src="https://skillicons.dev/icons?i=apollo" width="65" height="65" alt="dart" />
+			<br> Apollo
+		</td>
+		<td align="center" width="96">
+			<img src="https://skillicons.dev/icons?i=ps" width="65" height="65" alt="Redis" />
+			<br> Photoshop
+		</td>
+	</tr>
+	<tr>
+		<td align="center" width="96">
+			<img src="https://skillicons.dev/icons?i=prometheus" width="65" height="65" alt="Redis" />
+			<br> Prometheus
+		</td>
+	</tr>
 </table>
 
 ### 我会什么
