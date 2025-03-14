@@ -227,7 +227,7 @@ Odboy，one dream boy，意为一个有梦想的男孩。一心一意干事业�
 - Web 全栈开发 (Vue.js/React.js 全栈开发，后端Java、Python、Go)
 
 ### 在线活跃
-<img height="300" src="https://github-readme-activity-graph.vercel.app/graph?username=odboy-tianjun&bg_color=ffffff&color=000000&line=04e61b&point=606266&area=true&hide_border=true" />
+<img height="300" src="https://github-readme-activity-graph.vercel.app/graph?username=odboy-tianjun&bg_color=ffffff&color=000000&line=909399&point=67C23A&area=true&hide_border=true" />
 
 ### 兴趣爱好
 
