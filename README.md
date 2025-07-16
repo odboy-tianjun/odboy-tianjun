@@ -21,7 +21,25 @@ Odboy，one dream boy，意为一个有梦想的男孩。一心一意干事业�
 
 强者，从不抱怨环境。一无所有的来，两袖清风的去。或许工作中你是一颗闪耀的红星，但是在万千世界中，你只是一缕尘埃。
 
-### 我的编程之旅
+### 项目清单
+
+| 类别   | 描述                                       | 语言/框架                                                     | 仓库                                                          | 完成度                                                                                   |      
+|------|------------------------------------------|-----------------------------------------------------------|-------------------------------------------------------------|---------------------------------------------------------------------------------------|
+| 学习应用 | Gin+Gorm                                 | Go                                                        | https://github.com/odboy-tianjun/lingye-gin-gorm            | Finish                                                                                |
+| 学习应用 | Go调用ansible、ansible-playbook并放回JSON结果    | Go                                                        | https://github.com/odboy-tianjun/kenaito-ansible-go-example | Finish                                                                                |
+| 应用模板 | Kubernetes                               | Yaml                                                      | https://github.com/odboy-tianjun/k8sfiles                   | - StatefulSet                                                                         |
+| 部署模板 | Docker                                   | Yaml                                                      | https://github.com/odboy-tianjun/dockerfiles                | Updating                                                                              |
+| 部署模板 | Kubernetes Ingress Nginx 解决国内部署，镜像拉取失败问题 | Yaml                                                      | https://github.com/odboy-tianjun/k8s-component              | Finish                                                                                |
+| 中间件  | 容器镜像存储                                   | Go                                                        | https://github.com/odboy-tianjun/kenaito-image-register     | - 推送镜像<br/> - 拉取镜像                                                                    |
+| 中间件  | 配置中心                                     | SpringBoot2、Vue2                                          | https://github.com/odboy-tianjun/kenaito-config             | - 初始化拉取配置<br/> - 配置中心离线读取本地配置<br/> - 更新@Value的值<br/> - 更新@ConfigurationProperties绑定的值 |
+| 中间件  | DNS可视化配置中心                               | Gin、Xorm、D2Admin（Vue2）                                    | https://github.com/odboy-tianjun/kenaito-dns                | Finish。使用了kubernetes coredns使用的依赖"miekg/dns"，可以去看看大佬写的优秀代码                            |
+| 自研应用 | Go快速开发脚手架，包含RBAC                         | Gin、Xorm、自定义RBAC（非Casbin）、JWT、Redis、Vue2                  | https://github.com/odboy-tianjun/cutego                     | Finish                                                                                |
+| 自研应用 | 根据分辨率快速整理图片和视频                           | Go                                                        | https://github.com/odboy-tianjun/kenaito-media-picker       | Finish                                                                                |
+| 自研应用 | 适用于文件夹内多个pdf文件提取图片，保存为jpg                | Go                                                        | https://github.com/odboy-tianjun/kenaito-pdf2png            | Finish                                                                                |
+| 二开应用 | Java快速开发脚手架，包含RBAC                       | SpringBoot2、 Mybatis-Plus、 JWT、Spring Security、Redis、Vue2 | https://github.com/odboy-tianjun/cutejava                   | Updating                                                                              |
+| 二开应用 | 解决Kubernetes一键部署时，在国内拉取离线包失败的问题          | Bash、Ansible                                              | https://github.com/odboy-tianjun/kubeasz                    | Forking & Updating                                                                    |
+
+### 编程之路
 
 我与计算机结识较晚，高考结束才拥有第一台笔记本电脑。我的第一门编程语言是C，常用的是神马语言，我学习到了外挂、逆向破解、网络协议(
 偏加密分析)、自动化脚本等技术，用3DsMax9制作过GTA5的车辆模型，用BAT脚本写过小程序。本着不希望让全世界记住我，只需要一部分信任的伙伴记住我的原则，
@@ -31,6 +49,7 @@ Odboy，one dream boy，意为一个有梦想的男孩。一心一意干事业�
 开发与逆向？Rust？硬件开发？总之别让自己闲下来，只有忙碌才能让每天过得充实而有意义。
 
 ### 我使用过并感兴趣的工具和技术
+
 <table>
 	<tr>
 		<td align="center" width="96">
@@ -177,6 +196,7 @@ Odboy，one dream boy，意为一个有梦想的男孩。一心一意干事业�
 - Web 全栈开发 (Vue.js/React.js 全栈开发，后端Java、Python、Go)
 
 ### 在线活跃
+
 <img height="300" src="https://github-readme-activity-graph.vercel.app/graph?username=odboy-tianjun&bg_color=ffffff&color=000000&line=909399&point=67C23A&area=true&hide_border=true" />
 
 ### 兴趣爱好
