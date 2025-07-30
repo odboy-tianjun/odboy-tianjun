@@ -7,52 +7,53 @@
 </p>
 <br>
 
-- 👨‍💻 Known as **Odboy** across all platforms
-- 🧑 A college graduate now based in Shanghai, working at a logistics company.
-- 🐛 Wrote "Shenma Language" (a Chinese programming language) for 2 years, dabbled in DevOps automation, now focused on **Java development**.
-- 🤯 Passionate tinkerer with strong self-learning skills and a perfectionist coding style.
-- 💡 I document my learning journey through projects and blogs, hoping to make tech more accessible to others.
+- 👨‍💻 全网同名Odboy
+- 🧑 一个本科毕业多年的大学生🐂🐴，现居上海，就职于一家快递公司。
+- 🐛 曾写过两年的神马语言，在此期间接触了自动化运维，现在主攻Java开发。
+- 🤯 酷爱折腾，有极强的⾃我学习能⼒与问题解决能⼒，也有很重的代码洁癖。
+- 💡 我通常会将我的学习过程总结为项目或博客文章的形式，并乐意与他人分享。当其他人学习该技术时，可以参照我的项目或文章，我认为这非常有意义。
 
-### The Story Behind My Name
+### 名字由来
 
-**Odboy** = **One Dream Boy**. Inspired by Elon Musk—stay focused on your vision, ignore the noise.
+Odboy，one dream boy，意为一个有梦想的男孩。一心一意干事业，不用在意他人说什么，埃隆·里夫·马斯克就是这样的。
 
-### Motto
+### 座右铭
 
-> *"The strong adapt; they never complain. We arrive with nothing and leave with nothing. You might shine at work, but in the grand scheme, you're just
-stardust."*
+强者，从不抱怨环境。一无所有的来，两袖清风的去。或许工作中你是一颗闪耀的红星，但是在万千世界中，你只是一缕尘埃。
 
-### Mantra
+### 口头禅
 
-> *"Life (and coding) is about trial and error. Keep iterating with passion, and your work will eventually shine."*
+人生本就是不断试错的过程，项目也一样，不断的试错，不断的完善，只要有一颗炙热的恒心，总有一天，它会出现在世人眼中。
 
-### Projects
+### 项目清单
 
-| Category   | Description                                                   | Repo                                                                              | Tech Stack                                                        | Status                                                                                   |  
-|------------|---------------------------------------------------------------|-----------------------------------------------------------------------------------|-------------------------------------------------------------------|------------------------------------------------------------------------------------------|  
-| Learning   | Gin + Gorm                                                    | [lingye-gin-gorm](https://github.com/odboy-tianjun/lingye-gin-gorm)               | Go                                                                | ✅ Done                                                                                   |  
-| Learning   | Go wrapper for Ansible/Ansible-playbook with JSON output      | [kenaito-ansible-go](https://github.com/odboy-tianjun/kenaito-ansible-go-example) | Go                                                                | ✅ Done                                                                                   |  
-| Template   | Kubernetes                                                    | [k8sfiles](https://github.com/odboy-tianjun/k8sfiles)                             | YAML                                                              | ⏳ StatefulSet WIP                                                                        |  
-| Template   | Docker                                                        | [dockerfiles](https://github.com/odboy-tianjun/dockerfiles)                       | YAML                                                              | 🔄 Updating                                                                              |  
-| DevOps     | Kubernetes Ingress-Nginx fixes for China (mirror pull issues) | [k8s-component](https://github.com/odboy-tianjun/k8s-component)                   | YAML                                                              | ✅ Done                                                                                   |  
-| Middleware | Container image registry                                      | [kenaito-image-register](https://github.com/odboy-tianjun/kenaito-image-register) | Go                                                                | 🛠️ Push/Pull images                                                                     |  
-| Middleware | Config Center                                                 | [kenaito-config](https://github.com/odboy-tianjun/kenaito-config)                 | SpringBoot2 + Vue2                                                | 🛠️ Features: Config fetch, offline mode, `@Value`/`@ConfigurationProperties` hot-reload |  
-| Middleware | DNS visual management tool                                    | [kenaito-dns](https://github.com/odboy-tianjun/kenaito-dns)                       | Gin + Xorm + Vue2 (D2Admin)                                       | ✅ Done (Uses `miekg/dns`—kudos to the OSS devs!)                                         |  
-| Framework  | Go rapid dev scaffold (RBAC included)                         | [cutego](https://github.com/odboy-tianjun/cutego)                                 | Gin + Xorm + JWT + Redis + Vue2                                   | ✅ Done                                                                                   |  
-| Tool       | Media organizer (sort by resolution)                          | [kenaito-media-picker](https://github.com/odboy-tianjun/kenaito-media-picker)     | Go                                                                | ✅ Done                                                                                   |  
-| Tool       | PDF-to-JPG converter (batch)                                  | [kenaito-pdf2png](https://github.com/odboy-tianjun/kenaito-pdf2png)               | Go                                                                | ✅ Done                                                                                   |  
-| Platform   | DevOps automation platform                                    | [kenaito-devops](https://github.com/odboy-tianjun/kenaito-devops)                 | Java + Go + Python3                                               | 🔄 Updating                                                                              |  
-| Customized | Java rapid dev scaffold (RBAC)                                | [cutejava](https://github.com/odboy-tianjun/cutejava)                             | SpringBoot2 + MyBatis-Plus + JWT + Spring Security + Redis + Vue2 | 🔄 Updating                                                                              |  
-| Customized | Kubernetes offline deployment toolkit (China network fixes)   | [kubeasz](https://github.com/odboy-tianjun/kubeasz)                               | Bash + Ansible                                                    | 🍴 Forked & Updating                                                                     |  
+| 类别   | 描述                                       | 仓库                                                          | 语言/框架                                                     | 完成度                                                                                   |      
+|------|------------------------------------------|-------------------------------------------------------------|-----------------------------------------------------------|---------------------------------------------------------------------------------------|
+| 学习应用 | Gin+Gorm                                 | https://github.com/odboy-tianjun/lingye-gin-gorm            | Go                                                        | Finish                                                                                |
+| 学习应用 | Go调用ansible、ansible-playbook并返回JSON结果    | https://github.com/odboy-tianjun/kenaito-ansible-go-example | Go                                                        | Finish                                                                                |
+| 应用模板 | Kubernetes                               | https://github.com/odboy-tianjun/k8sfiles                   | Yaml                                                      | - StatefulSet                                                                         |
+| 部署模板 | Docker                                   | https://github.com/odboy-tianjun/dockerfiles                | Yaml                                                      | Updating                                                                              |
+| 部署模板 | Kubernetes Ingress Nginx 解决国内部署，镜像拉取失败问题 | https://github.com/odboy-tianjun/k8s-component              | Yaml                                                      | Finish                                                                                |
+| 中间件  | 容器镜像存储                                   | https://github.com/odboy-tianjun/kenaito-image-register     | Go                                                        | - 推送镜像<br/> - 拉取镜像                                                                    |
+| 中间件  | 配置中心                                     | https://github.com/odboy-tianjun/kenaito-config             | SpringBoot2、Vue2                                          | - 初始化拉取配置<br/> - 配置中心离线读取本地配置<br/> - 更新@Value的值<br/> - 更新@ConfigurationProperties绑定的值 |
+| 中间件  | DNS可视化配置中心                               | https://github.com/odboy-tianjun/kenaito-dns                | Gin、Xorm、D2Admin（Vue2）                                    | Finish。使用了kubernetes coredns使用的依赖"miekg/dns"，可以去看看大佬写的优秀代码                            |
+| 自研应用 | Go快速开发脚手架，包含RBAC                         | https://github.com/odboy-tianjun/cutego                     | Gin、Xorm、自定义RBAC（非Casbin）、JWT、Redis、Vue2                  | Finish                                                                                |
+| 自研应用 | 根据分辨率快速整理图片和视频                           | https://github.com/odboy-tianjun/kenaito-media-picker       | Go                                                        | Finish                                                                                |
+| 自研应用 | 适用于文件夹内多个pdf文件提取图片，保存为jpg                | https://github.com/odboy-tianjun/kenaito-pdf2png            | Go                                                        | Finish                                                                                |
+| 自研应用 | 自动化运维平台                                  | https://github.com/odboy-tianjun/kenaito-devops             | java、go、python3                                           | Updating                                                                              |
+| 二开应用 | Java快速开发脚手架，包含RBAC                       | https://github.com/odboy-tianjun/cutejava                   | SpringBoot2、 Mybatis-Plus、 JWT、Spring Security、Redis、Vue2 | Updating                                                                              |
+| 二开应用 | 解决Kubernetes一键部署时，在国内拉取离线包失败的问题          | https://github.com/odboy-tianjun/kubeasz                    | Bash、Ansible                                              | Forking & Updating                                                                    |
 
-### My Coding Journey
+### 编程之路
 
-I started late—got my first laptop after high school. Began with **C**, then wrote game hacks/reverse engineering tools in **Shenma Language**, dabbled in 3D
-modeling (GTA5 car mods!), and BAT scripts.
+我与计算机结识较晚，高考结束才拥有第一台笔记本电脑。我的第一门编程语言是C，常用的是神马语言，我学习到了外挂、逆向破解、网络协议(
+偏加密分析)、自动化脚本等技术，用3DsMax9制作过GTA5的车辆模型，用BAT脚本写过小程序。本着不希望让全世界记住我，只需要一部分信任的伙伴记住我的原则，
+披荆斩棘，虽一身伤痕，也战无不胜，攻必有果。
 
-Nowadays, I crave new challenges: **AI/LLMs, iOS dev, Rust, or hardware**. Staying busy keeps life meaningful.
+如今我对开发也有些乏味，想要重新找回曾经的那股折腾劲。或许会考虑换个赛道，AI 大模型？IOS
+开发与逆向？Rust？硬件开发？总之别让自己闲下来，只有忙碌才能让每天过得充实而有意义。
 
-### Tech Stack
+### 我使用过并感兴趣的工具和技术
 
 <table>
 	<tr>
@@ -187,32 +188,52 @@ Nowadays, I crave new challenges: **AI/LLMs, iOS dev, Rust, or hardware**. Stayi
 	</tr>
 </table>
 
-### Skills
+### 我会什么
 
-- **Automation**: Windows BAT / Linux Shell
-- **Middleware**: Nginx, Ansible, Zookeeper, Redis, etc.
-- **Containers**: Docker/K8s (deployment & troubleshooting)
-- **Full-stack**: Vue/React + Java/Python/Go backends
-- *(Legacy)*: Android native, Electron, mini-programs (uni-app)
+- Window BAT自动化脚本
+- Linux Shell自动化脚本
+- 易语言程序 (能写但不想写，因为开发体验很差，我会考虑用其他技术平替)
+- 中间件安装配置与应用（nginx、ansible、zookeeper、mysql、redis等）
+- 容器化（docker、k8s）
+- 原生Android (曾经写过但很久没写了)
+- Electron (曾经写过但很久没写了)
+- 小程序 (能写但不想写，因为开发体验很差，特指 uni-app)
+- Web 全栈开发 (Vue.js/React.js 全栈开发，后端Java、Python、Go)
 
-### Hobbies
+### 在线活跃
 
-- **🎤 Karaoke**: "My partner enjoys it—that’s all that matters."
-- **🎮 Games**:
-    - *LoL*: `Leo丶Ling#16907` (Multiple servers)
-    - *DNF*: Cross-server 5 (Male Launcher / Asura main)
-- **🤖 Coding**: Turning ideas into reality.
+<img height="300" src="https://github-readme-activity-graph.vercel.app/graph?username=odboy-tianjun&bg_color=ffffff&color=000000&line=909399&point=67C23A&area=true&hide_border=true" />
 
-### Philosophy
+### 兴趣爱好
 
-I’m not a "hardcore" programmer—just balancing work and life. Health and relationships > career. Tech won’t last forever; exploring new fields keeps things
-exciting.
+- ***🎤K歌***
+    - 不算五音不全，也不算好听，我对象爱听就行
+- ***🎮网络游戏***  只玩LOL、DNF，其他太厉害被封了
+    - LOL 区服
+        - Leo丶Ling#16907 艾欧尼亚
+        - Leo丶Ling#98246 黑色玫瑰
+        - Leo丶Ling#81813 弗雷尔卓德
+        - Leo丶Ling#37786 祖安
+        - Leo丶Ling#23496 均衡教派
+        - Leo丶Ling#44799 男爵领域
+    - DNF 区服
+        - 跨五，江西一区。男大枪(Mx涉之王者)、阿修罗(BomoBorker)
+- ***🤖编程开发***
+    - 将想法付诸实践, 享受创造的乐趣。
 
-### Let’s Connect
+### 结束语
 
-| Email                              | QQ                                                                             | WeChat                                                                             |
-|------------------------------------|--------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
-| [Mail me](mailto:tianjun@odboy.cn) | <img height="300" src="https://oss.odboy.cn/blog/files/qq_code.png" alt="QQ"/> | <img height="300" src="https://oss.odboy.cn/blog/files/wx_code.png" alt="WeChat"/> |
+严格来说，我不算专业或技术很强程序员。只是在工作与生活找到了一种平衡，我不认为工作是一件很 “重要” 的事，自己才最重要，健康、家人朋友才是。
+
+个人来说，程序员这条路不是长久的选择，人会老会失业。一辈子只做一件事也太无趣吧，人生苦短，可以多去尝试。
+
+接下来，会在其它的领域去做点东西。未来之路还是要思考怎么走。
+
+### 联系方式
+
+| Email                                                    | QQ                                                                                         | WX                                                                                         |
+|----------------------------------------------------------|--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+| <a href="mailto:tianjun@odboy.cn" target="_blank">邮我</a> | <img alt="QQ" height="300" src="https://oss.odboy.cn/blog/files/qq_code.png" width="300"/> | <img alt="WX" height="300" src="https://oss.odboy.cn/blog/files/wx_code.png" width="300"/> |
 
 ---
-**Thanks for reading!** If my work helps you, feel free to reach out (time permitting).  
+感谢你能看到这里，希望我的分享对你有帮助，如果你有什么困扰，也可咨询我，在我时间有限的情况下，我会竭力回复。
