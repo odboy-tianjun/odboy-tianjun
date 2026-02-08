@@ -41,7 +41,7 @@ Odboy，one dream boy，意为一个有梦想的男孩。一心一意干事业�
 | 自研应用 | 根据分辨率快速整理图片和视频                           | https://github.com/odboy-tianjun/kenaito-media-picker       | Go                                                        | Finish                                                                                |
 | 自研应用 | 适用于文件夹内多个pdf文件提取图片，保存为jpg                | https://github.com/odboy-tianjun/kenaito-pdf2png            | Go                                                        | Finish                                                                                |
 | 自研应用 | 自动化运维平台                                  | https://github.com/odboy-tianjun/kenaito-devops             | java、go、python3                                           | Pending                                                                              |
-| 二开应用 | Java快速开发脚手架，包含RBAC                       | https://github.com/odboy-tianjun/cutejava                   | SpringBoot2、 Mybatis-Plus、 JWT、Spring Security、Redis、Vue2 | Updating                                                                   |
+| 自研应用 | Java快速开发脚手架，包含RBAC                       | https://github.com/odboy-tianjun/cutejava                   | SpringBoot2、 Mybatis-Plus、 JWT、Spring Security、Redis、Vue2 | Updating                                                                   |
 
 ### 编程之路
 
