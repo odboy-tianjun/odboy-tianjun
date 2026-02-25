@@ -1,12 +1,5 @@
 # Hey, I'm <a href="https://blog.odboy.cn" target="_blank">Odboy</a>, Nice to see you! 👋👋👋 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/odboy-tianjun/">
 
-<br>
-<p>
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=odboy-tianjun&show_icons=true&theme=dracula" />
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odboy-tianjun&show_icons=true&theme=dracula&layout=compact" />
-</p>
-<br>
-
 - 👨‍💻 全网同名Odboy
 - 🧑 一个本科毕业多年的大学生🐂🐴，现居上海，就职于一家快递公司。
 - 🐛 曾写过两年的神马语言，在此期间接触了自动化运维，现在主攻Java开发。
