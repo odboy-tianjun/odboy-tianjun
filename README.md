@@ -29,8 +29,6 @@ Odboy，one dream boy，意为一个有梦想的男孩。一心一意干事业�
 
 | 类别   | 描述                                       | 仓库                                                          | 语言/框架                                                     | 完成度                                                                                   |  备注|    
 |------|------------------------------------------|-------------------------------------------------------------|-----------------------------------------------------------|---------------------------------------------------------------------------------------|---|
-| 学习 | Gin+Gorm                                 | https://github.com/odboy-tianjun/lingye-gin-gorm            | Go                                                        | Finish  |-|
-| 学习 | Go调用ansible、ansible-playbook并返回JSON结果    | https://github.com/odboy-tianjun/kenaito-ansible-go-example | Go                                                        | Finish |-|
 | 模板 | Kubernetes                               | https://github.com/odboy-tianjun/k8sfiles                   | Yaml                                                      | - StatefulSet |-|
 | 模板 | Docker                                   | https://github.com/odboy-tianjun/dockerfiles                | Yaml                                                      | Updating |-|
 | 模板 | Kubernetes Ingress Nginx 解决国内部署，镜像拉取失败问题 | https://github.com/odboy-tianjun/k8s-component              | Yaml                                                      | Finish  |-|
