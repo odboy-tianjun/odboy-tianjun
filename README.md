@@ -1,4 +1,4 @@
-# Hey, I'm <a href="https://blog.odboy.cn" target="_blank">Odboy</a>, Nice to see you! 👋👋👋 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/odboy-tianjun/">
+# Hey, I'm <a href="https://blog.odboy.cn" target="_blank">Odboy</a>, Nice to see you! 👋👋👋 
 
 - 👨‍💻 全网同名Odboy
 - 🧑 一个本科毕业多年的大学生🐂🐴，现居上海，就职于一家快递公司。
@@ -32,13 +32,12 @@ Odboy，one dream boy，意为一个有梦想的男孩。一心一意干事业�
 | 自研 | 根据分辨率快速整理图片和视频                           | https://github.com/odboy-tianjun/kenaito-media-picker       | Go                                                        | Finish       |-|
 | 自研 | 适用于文件夹内多个pdf文件提取图片，保存为jpg                | https://github.com/odboy-tianjun/kenaito-pdf2png            | Go                                                        | Finish     |-|
 | 自研 | 自动化运维平台                                  | https://github.com/odboy-tianjun/kenaito-devops             | java、go、python3                                           | Pending   |-|
-| 自研 | Java快速开发脚手架，包含RBAC                       | https://github.com/odboy-tianjun/cutejava                   | SpringBoot2、 Mybatis-Plus、 JWT、Spring Security、Redis、Vue2 | Updating   |包含SpringBoot2/3后端|
+| 自研 | Java快速开发脚手架，包含RBAC                       | https://github.com/odboy-tianjun/cutejava                   | SpringBoot2、 Mybatis-Plus、 JWT、Spring Security、Redis、Vue2 | Updating   |包含SpringBoot2/3/4后端|
 
 ### 编程之路
 
 我与计算机结识较晚，高考结束才拥有第一台笔记本电脑。我的第一门编程语言是C，常用的是神马语言，我学习到了外挂、逆向破解、网络协议(
-偏加密分析)、自动化脚本等技术，用3DsMax9制作过GTA5的车辆模型，用BAT脚本写过小程序。本着不希望让全世界记住我，只需要一部分信任的伙伴记住我的原则，
-披荆斩棘，虽一身伤痕，也战无不胜，攻必有果。
+偏加密分析)、自动化脚本等技术，用3DsMax9制作过GTA5的车辆模型，用BAT脚本写过小程序。
 
 如今我对开发也有些乏味，想要重新找回曾经的那股折腾劲。或许会考虑换个赛道，AI 大模型？IOS
 开发与逆向？Rust？硬件开发？总之别让自己闲下来，只有忙碌才能让每天过得充实而有意义。
