@@ -1,11 +1,4 @@
-# Hey, I'm <a href="https://blog.odboy.cn" target="_blank">Odboy</a>, Nice to see you! 👋👋👋 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/odboy-tianjun/">
-
-<br>
-<p>
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=odboy-tianjun&show_icons=true&theme=dracula" />
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odboy-tianjun&show_icons=true&theme=dracula&layout=compact" />
-</p>
-<br>
+# Hey, I'm <a href="https://blog.odboy.cn" target="_blank">Odboy</a>, Nice to see you! 👋👋👋
 
 - 👨‍💻 全网同名Odboy
 - 🧑 一个本科毕业多年的大学生🐂🐴，现居上海，就职于一家快递公司。
@@ -27,28 +20,23 @@ Odboy，one dream boy，意为一个有梦想的男孩。一心一意干事业�
 
 ### 项目清单
 
-| 类别   | 描述                                       | 仓库                                                          | 语言/框架                                                     | 完成度                                                                                   |      
-|------|------------------------------------------|-------------------------------------------------------------|-----------------------------------------------------------|---------------------------------------------------------------------------------------|
-| 学习应用 | Gin+Gorm                                 | https://github.com/odboy-tianjun/lingye-gin-gorm            | Go                                                        | Finish                                                                                |
-| 学习应用 | Go调用ansible、ansible-playbook并返回JSON结果    | https://github.com/odboy-tianjun/kenaito-ansible-go-example | Go                                                        | Finish                                                                                |
-| 应用模板 | Kubernetes                               | https://github.com/odboy-tianjun/k8sfiles                   | Yaml                                                      | - StatefulSet                                                                         |
-| 部署模板 | Docker                                   | https://github.com/odboy-tianjun/dockerfiles                | Yaml                                                      | Updating                                                                              |
-| 部署模板 | Kubernetes Ingress Nginx 解决国内部署，镜像拉取失败问题 | https://github.com/odboy-tianjun/k8s-component              | Yaml                                                      | Finish                                                                                |
-| 中间件  | 容器镜像存储                                   | https://github.com/odboy-tianjun/kenaito-image-register     | Go                                                        | - 推送镜像<br/> - 拉取镜像                                                                    |
-| 中间件  | 配置中心                                     | https://github.com/odboy-tianjun/kenaito-config             | SpringBoot2、Vue2                                          | - 初始化拉取配置<br/> - 配置中心离线读取本地配置<br/> - 更新@Value的值<br/> - 更新@ConfigurationProperties绑定的值 |
-| 中间件  | DNS可视化配置中心                               | https://github.com/odboy-tianjun/kenaito-dns                | Gin、Xorm、D2Admin（Vue2）                                    | Finish。使用了kubernetes coredns使用的依赖"miekg/dns"，可以去看看大佬写的优秀代码                            |
-| 自研应用 | Go快速开发脚手架，包含RBAC                         | https://github.com/odboy-tianjun/cutego                     | Gin、Xorm、自定义RBAC（非Casbin）、JWT、Redis、Vue2                  | Finish                                                                                |
-| 自研应用 | 根据分辨率快速整理图片和视频                           | https://github.com/odboy-tianjun/kenaito-media-picker       | Go                                                        | Finish                                                                                |
-| 自研应用 | 适用于文件夹内多个pdf文件提取图片，保存为jpg                | https://github.com/odboy-tianjun/kenaito-pdf2png            | Go                                                        | Finish                                                                                |
-| 自研应用 | 自动化运维平台                                  | https://github.com/odboy-tianjun/kenaito-devops             | java、go、python3                                           | Updating                                                                              |
-| 二开应用 | Java快速开发脚手架，包含RBAC                       | https://github.com/odboy-tianjun/cutejava                   | SpringBoot2、 Mybatis-Plus、 JWT、Spring Security、Redis、Vue2 | Updating                                                                              |
-| 二开应用 | 解决Kubernetes一键部署时，在国内拉取离线包失败的问题          | https://github.com/odboy-tianjun/kubeasz                    | Bash、Ansible                                              | Forking & Updating                                                                    |
+| 类别    | 描述                                       | 仓库                                                      | 语言/框架                                                     | 完成度  | 备注                                                                                    |    
+|-------|------------------------------------------|---------------------------------------------------------|-----------------------------------------------------------|------|---------------------------------------------------------------------------------------|
+| 自研    | Go快速开发脚手架，包含RBAC                         | https://github.com/odboy-tianjun/cutego                 | Gin、Xorm、自定义RBAC（非Casbin）、JWT、Redis、Vue2                  | 持续更新 | -                                                                                     |
+| 自研    | Java快速开发脚手架，包含RBAC                       | https://github.com/odboy-tianjun/cutejava               | SpringBoot2、 Mybatis-Plus、 JWT、Spring Security、Redis、Vue2 | 持续更新 | 包含SpringBoot2/3/4后端                                                                   |
+| 自研    | DNS可视化配置中心                               | https://github.com/odboy-tianjun/kenaito-dns            | Gin、Xorm、D2Admin（Vue2）                                    | 已完结  | 使用了kubernetes coredns使用的依赖"miekg/dns"，可以去看看大佬写的优秀代码                                   |
+| 自研    | 自动化运维平台V2                                | https://github.com/odboy-tianjun/kenaito-pilot          | Java、Go、Python3、Gitlab、Kubernetes、AnsiblePlaybook         | 持续更新 | -                                                                                     |
+| 自研    | 根据分辨率快速整理图片和视频                           | https://github.com/odboy-tianjun/kenaito-media-picker   | Go                                                        | 已完结  | -                                                                                     |
+| 自研    | 适用于文件夹内多个pdf文件提取图片，保存为jpg                | https://github.com/odboy-tianjun/kenaito-pdf2png        | Go                                                        | 已完结  | -                                                                                     |
+| 自研/学习 | 容器镜像存储                                   | https://github.com/odboy-tianjun/kenaito-image-register | Go                                                        | 暂停开发 | - 推送镜像<br/> - 拉取镜像                                                                    |
+| 自研/学习 | 配置中心                                     | https://github.com/odboy-tianjun/kenaito-config         | SpringBoot2、Vue2                                          | 暂停开发 | - 初始化拉取配置<br/> - 配置中心离线读取本地配置<br/> - 更新@Value的值<br/> - 更新@ConfigurationProperties绑定的值 |
+| 自研/学习 | Docker 中间件配置，开箱即用                        | https://github.com/odboy-tianjun/dockerfiles            | Yaml                                                      | 持续更新 | -                                                                                     |
+| 自研/学习 | Kubernetes Ingress Nginx 解决国内部署，镜像拉取失败问题 | https://github.com/odboy-tianjun/k8s-component          | Yaml                                                      | 已完结  | -                                                                                     |
 
 ### 编程之路
 
 我与计算机结识较晚，高考结束才拥有第一台笔记本电脑。我的第一门编程语言是C，常用的是神马语言，我学习到了外挂、逆向破解、网络协议(
-偏加密分析)、自动化脚本等技术，用3DsMax9制作过GTA5的车辆模型，用BAT脚本写过小程序。本着不希望让全世界记住我，只需要一部分信任的伙伴记住我的原则，
-披荆斩棘，虽一身伤痕，也战无不胜，攻必有果。
+偏加密分析)、自动化脚本等技术，用3DsMax9制作过GTA5的车辆模型，用BAT脚本写过小程序。
 
 如今我对开发也有些乏味，想要重新找回曾经的那股折腾劲。或许会考虑换个赛道，AI 大模型？IOS
 开发与逆向？Rust？硬件开发？总之别让自己闲下来，只有忙碌才能让每天过得充实而有意义。
@@ -208,7 +196,7 @@ Odboy，one dream boy，意为一个有梦想的男孩。一心一意干事业�
 
 - ***🎤K歌***
     - 不算五音不全，也不算好听，我对象爱听就行
-- ***🎮网络游戏***  只玩LOL、DNF，其他太厉害被封了
+- ***🎮网络游戏***  LOL、DNF、三角洲行动
     - LOL 区服
         - Leo丶Ling#16907 艾欧尼亚
         - Leo丶Ling#98246 黑色玫瑰
