@@ -25,25 +25,6 @@ Odboy，one dream boy，意为一个有梦想的男孩。一心一意干事业�
 
 人生本就是不断试错的过程，项目也一样，不断的试错，不断的完善，只要有一颗炙热的恒心，总有一天，它会出现在世人眼中。
 
-### 项目清单
-
-| 类别   | 描述                                       | 仓库                                                          | 语言/框架                                                     | 完成度                                                                                   |      
-|------|------------------------------------------|-------------------------------------------------------------|-----------------------------------------------------------|---------------------------------------------------------------------------------------|
-| 学习应用 | Gin+Gorm                                 | https://github.com/odboy-tianjun/lingye-gin-gorm            | Go                                                        | Finish                                                                                |
-| 学习应用 | Go调用ansible、ansible-playbook并返回JSON结果    | https://github.com/odboy-tianjun/kenaito-ansible-go-example | Go                                                        | Finish                                                                                |
-| 应用模板 | Kubernetes                               | https://github.com/odboy-tianjun/k8sfiles                   | Yaml                                                      | - StatefulSet                                                                         |
-| 部署模板 | Docker                                   | https://github.com/odboy-tianjun/dockerfiles                | Yaml                                                      | Updating                                                                              |
-| 部署模板 | Kubernetes Ingress Nginx 解决国内部署，镜像拉取失败问题 | https://github.com/odboy-tianjun/k8s-component              | Yaml                                                      | Finish                                                                                |
-| 中间件  | 容器镜像存储                                   | https://github.com/odboy-tianjun/kenaito-image-register     | Go                                                        | - 推送镜像<br/> - 拉取镜像                                                                    |
-| 中间件  | 配置中心                                     | https://github.com/odboy-tianjun/kenaito-config             | SpringBoot2、Vue2                                          | - 初始化拉取配置<br/> - 配置中心离线读取本地配置<br/> - 更新@Value的值<br/> - 更新@ConfigurationProperties绑定的值 |
-| 中间件  | DNS可视化配置中心                               | https://github.com/odboy-tianjun/kenaito-dns                | Gin、Xorm、D2Admin（Vue2）                                    | Finish。使用了kubernetes coredns使用的依赖"miekg/dns"，可以去看看大佬写的优秀代码                            |
-| 自研应用 | Go快速开发脚手架，包含RBAC                         | https://github.com/odboy-tianjun/cutego                     | Gin、Xorm、自定义RBAC（非Casbin）、JWT、Redis、Vue2                  | Finish                                                                                |
-| 自研应用 | 根据分辨率快速整理图片和视频                           | https://github.com/odboy-tianjun/kenaito-media-picker       | Go                                                        | Finish                                                                                |
-| 自研应用 | 适用于文件夹内多个pdf文件提取图片，保存为jpg                | https://github.com/odboy-tianjun/kenaito-pdf2png            | Go                                                        | Finish                                                                                |
-| 自研应用 | 自动化运维平台                                  | https://github.com/odboy-tianjun/kenaito-devops             | java、go、python3                                           | Updating                                                                              |
-| 二开应用 | Java快速开发脚手架，包含RBAC                       | https://github.com/odboy-tianjun/cutejava                   | SpringBoot2、 Mybatis-Plus、 JWT、Spring Security、Redis、Vue2 | Updating                                                                              |
-| 二开应用 | 解决Kubernetes一键部署时，在国内拉取离线包失败的问题          | https://github.com/odboy-tianjun/kubeasz                    | Bash、Ansible                                              | Forking & Updating                                                                    |
-
 ### 编程之路
 
 我与计算机结识较晚，高考结束才拥有第一台笔记本电脑。我的第一门编程语言是C，常用的是神马语言，我学习到了外挂、逆向破解、网络协议(
