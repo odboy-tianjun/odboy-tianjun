@@ -1,12 +1,5 @@
 # Hey, I'm <a href="https://blog.odboy.cn" target="_blank">Odboy</a>, Nice to see you! 👋👋👋 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/odboy-tianjun/">
 
-<br>
-<p>
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=odboy-tianjun&show_icons=true&theme=dracula" />
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odboy-tianjun&show_icons=true&theme=dracula&layout=compact" />
-</p>
-<br>
-
 - 👨‍💻 全网同名Odboy
 - 🧑 一个本科毕业多年的大学生🐂🐴，现居上海，就职于一家快递公司。
 - 🐛 曾写过两年的神马语言，在此期间接触了自动化运维，现在主攻Java开发。
@@ -181,10 +174,6 @@ Odboy，one dream boy，意为一个有梦想的男孩。一心一意干事业�
 - 小程序 (能写但不想写，因为开发体验很差，特指 uni-app)
 - Web 全栈开发 (Vue.js/React.js 全栈开发，后端Java、Python、Go)
 
-### 在线活跃
-
-<img height="300" src="https://github-readme-activity-graph.vercel.app/graph?username=odboy-tianjun&bg_color=ffffff&color=000000&line=909399&point=67C23A&area=true&hide_border=true" />
-
 ### 兴趣爱好
 
 - ***🎤K歌***
@@ -212,9 +201,9 @@ Odboy，one dream boy，意为一个有梦想的男孩。一心一意干事业�
 
 ### 联系方式
 
-| Email                                                    | QQ                                                                                         | WX                                                                                         |
-|----------------------------------------------------------|--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
-| <a href="mailto:tianjun@odboy.cn" target="_blank">邮我</a> | <img alt="QQ" height="300" src="https://oss.odboy.cn/blog/files/qq_code.png" width="300"/> | <img alt="WX" height="300" src="https://oss.odboy.cn/blog/files/wx_code.png" width="300"/> |
+| Email                                                    |                                                              
+|----------------------------------------------------------|
+| <a href="mailto:1943815081@qq.com" target="_blank">邮我</a> |
 
 ---
 感谢你能看到这里，希望我的分享对你有帮助，如果你有什么困扰，也可咨询我，在我时间有限的情况下，我会竭力回复。
