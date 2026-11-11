@@ -1,183 +1,117 @@
-# Hey, I'm <a href="https://blog.odboy.cn" target="_blank">Odboy</a>, Nice to see you! 👋👋👋
+# Hey, I'm <a href="https://www.odboy.cn" target="_blank">Odboy</a>, Nice to see you! 👋👋👋
 
-- 👨‍💻 全网同名Odboy
-- 🧑 一个本科毕业多年的大学生🐂🐴，现居上海，就职于一家快递公司。
-- 🐛 曾写过两年的神马语言，在此期间接触了自动化运维，现在主攻Java开发。
-- 🤯 酷爱折腾，有极强的⾃我学习能⼒与问题解决能⼒，也有很重的代码洁癖。
-- 💡 我通常会将我的学习过程总结为项目或博客文章的形式，并乐意与他人分享。当其他人学习该技术时，可以参照我的项目或文章，我认为这非常有意义。
-
-### 名字由来
-
-Odboy，one dream boy，意为一个有梦想的男孩。一心一意干事业，不用在意他人说什么，埃隆·里夫·马斯克就是这样的。
-
-### 座右铭
-
-强者，从不抱怨环境。一无所有的来，两袖清风的去。或许工作中你是一颗闪耀的红星，但是在万千世界中，你只是一缕尘埃。
-
-### 口头禅
-
-人生本就是不断试错的过程，项目也一样，不断的试错，不断的完善，只要有一颗炙热的恒心，总有一天，它会出现在世人眼中。
-
-### 编程之路
-
-我与计算机结识较晚，高考结束才拥有第一台笔记本电脑。我的第一门编程语言是C，常用的是神马语言，我学习到了外挂、逆向破解、网络协议(
-偏加密分析)、自动化脚本等技术，用3DsMax9制作过GTA5的车辆模型，用BAT脚本写过小程序。
-
-如今我对开发也有些乏味，想要重新找回曾经的那股折腾劲。或许会考虑换个赛道，AI 大模型？IOS
-开发与逆向？Rust？硬件开发？总之别让自己闲下来，只有忙碌才能让每天过得充实而有意义。
-
-### 我使用过并感兴趣的工具和技术
+> Odboy = **One Dream Boy**，一个专心搞事业的男孩。
 
 <table>
 	<tr>
-		<td align="center" width="96">
-			<img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML" />
-			<br> HTML
-		</td>
-		<td align="center" width="96">
-			<img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="css" />
-			<br> CSS
-		</td>
-		<td align="center" width="96">
-			<img src="https://skillicons.dev/icons?i=js" alt="icon" width="65" height="65" />
-			<br> Javascript
-		</td>
-		<td align="center" width="96">
-			<img src="https://skillicons.dev/icons?i=jquery" width="65" height="65" alt="jquery" />
-			<br> JQuery
-		</td>
-		<td align="center" width="96">
-			<img src="https://skillicons.dev/icons?i=nodejs&theme=light" width="65" height="65" alt="Redis" />
-			<br> Node.js
-		</td>
-		<td align="center" width="96">
-			<a href="#macropower-tech">
-				<img src="https://skillicons.dev/icons?i=vue&theme=light" alt="icon" width="65" height="65" />
-			</a>
-			<br> Vue
-		</td>
-		<td align="center" width="96">
-			<img src="https://skillicons.dev/icons?i=react" width="65" height="65" alt="Redis" />
-			<br> React
-		</td>
+		<td>👨‍💻 <b>全网同名</b></td>
+		<td>Odboy</td>
 	</tr>
 	<tr>
-		<td align="center" width="96">
-			<img src="https://skillicons.dev/icons?i=idea" width="65" height="65" alt="dart" />
-			<br> IDEA
-		</td>
-		<td align="center" width="96">
-			<a href="#macropower-tech">
-				<img src="https://skillicons.dev/icons?i=py&theme=light" alt="icon" width="65" height="65" />
-			</a>
-			<br> Python
-		</td>
-		<td align="center" width="96">
-			<img src="https://skillicons.dev/icons?i=java&theme=light" width="65" height="65" alt="jquery" />
-			<br> Java
-		</td>
-		<td align="center" width="96">
-			<img src="https://skillicons.dev/icons?i=go" width="65" height="65" alt="dart" />
-			<br> Go
-		</td>
-		<td align="center" width="96">
-			<img src="https://skillicons.dev/icons?i=flask&theme=light" width="65" height="65" alt="jquery" />
-			<br> Flask
-		</td>
-		<td align="center" width="96">
-			<img src="https://skillicons.dev/icons?i=spring&theme=light" width="65" height="65" alt="jquery" />
-			<br> Spring
-		</td>
-		<td align="center" width="96">
-			<img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
-			<br> Git
-		</td>
+		<td>📍 <b>坐标</b></td>
+		<td>上海 · 就职于一家快递公司</td>
 	</tr>
 	<tr>
-		<td align="center" width="96">
-			<img src="https://skillicons.dev/icons?i=docker" width="65" height="65" alt="Rest API" />
-			<br> Docker
-		</td>
-		<td align="center" width="96">
-			<img src="https://skillicons.dev/icons?i=kubernetes" width="65" height="65" alt="Rest API" />
-			<br> Kubernetes
-		</td>
-		<td align="center" width="96">
-			<img src="https://skillicons.dev/icons?i=mysql" width="65" height="65" alt="jquery" />
-			<br> MySQL
-		</td>
-		<td align="center" width="96">
-			<img src="https://skillicons.dev/icons?i=nginx" alt="icon" width="65" height="65" />
-			<br> Nginx
-		</td>
-		<td align="center" width="96">
-			<img src="https://skillicons.dev/icons?i=ansible" alt="icon" width="65" height="65" />
-			<br> Ansible
-		</td>
-		<td align="center" width="96">
-			<img src="https://skillicons.dev/icons?i=redis" width="65" height="65" alt="Redis" />
-			<br> Redis
-		</td>
-		<td align="center" width="96">
-			<img src="https://skillicons.dev/icons?i=maven&theme=light" alt="icon" width="65" height="65" />
-			<br> Maven
-		</td>
+		<td>🛠 <b>主攻</b></td>
+		<td>Java / Go 后端开发 · 自动化运维 · 容器化</td>
 	</tr>
 	<tr>
-		<td align="center" width="96">
-			<img src="https://skillicons.dev/icons?i=github&theme=light" width="65" height="65" alt="dart" />
-			<br> Github
-		</td>
-		<td align="center" width="96">
-			<img src="https://skillicons.dev/icons?i=gitlab&theme=light" width="65" height="65" alt="GitLab" />
-			<br> GitLab
-		</td>
-		<td align="center" width="96">
-			<img src="https://skillicons.dev/icons?i=postman" width="65" height="65" alt="Postman" />
-			<br> Postman
-		</td>
-		<td align="center" width="96">
-			<img src="https://skillicons.dev/icons?i=linux&theme=light" width="65" height="65" alt="Linux" />
-			<br> Linux
-		</td>
-		<td align="center" width="96">
-			<img src="https://skillicons.dev/icons?i=sqlite" width="65" height="65" alt="dart" />
-			<br> Sqlite3
-		</td>
-		<td align="center" width="96">
-			<img src="https://skillicons.dev/icons?i=apollo" width="65" height="65" alt="dart" />
-			<br> Apollo
-		</td>
-		<td align="center" width="96">
-			<img src="https://skillicons.dev/icons?i=ps" width="65" height="65" alt="Redis" />
-			<br> Photoshop
-		</td>
+		<td>💡 <b>在做的事</b></td>
+		<td>把学习过程沉淀成开源项目和技术文章，方便后来者少踩坑</td>
 	</tr>
 	<tr>
-		<td align="center" width="96">
-			<img src="https://skillicons.dev/icons?i=prometheus" width="65" height="65" alt="Redis" />
-			<br> Prometheus
-		</td>
+		<td>📫 <b>联系我</b></td>
+		<td><a href="mailto:tianjun@odboy.cn">tianjun@odboy.cn</a> · <a href="https://www.odboy.cn">博客</a></td>
 	</tr>
 </table>
 
+---
+
+## 🧭 关于我
+
+我是一名普通程序员，却是个重度折腾选手：有极强的自学习能力和问题解决能力，也有些代码洁癖。比起把事做完，我更在意把它做对、做好。
+
+- **名字由来**：Odboy，one dream boy，意为一个有梦想的男孩。一心一意干事业，不用在意他人说什么，埃隆·里夫·马斯克就是这样的。
+- **座右铭**：强者，从不抱怨环境。一无所有的来，两袖清风的去。或许工作中你是一颗闪耀的红星，但是在万千世界中，你只是一缕尘埃。
+- **口头禅**：人生本就是不断试错的过程，项目也一样，不断的试错，不断的完善，只要有一颗炙热的恒心，总有一天，它会出现在世人眼中。
+
+### 编程之路
+
+我与计算机结识较晚，高考结束才拥有第一台笔记本电脑。我的第一门编程语言是 C，之后常用「神马语言」，借此接触了外挂、逆向破解、网络协议（偏加密分析）、自动化脚本等技术；用
+3DsMax9 做过 GTA5 的车辆模型，也用 BAT 脚本写过不少小程序。
+
+如今纯写业务让我有些乏味，想重新找回最初那股折腾劲。或许会换个赛道：AI 大模型？iOS
+开发与逆向？Rust？硬件开发？总之别让自己闲下来，只有忙碌才能让每天过得充实而有意义。
+
+---
+
+## 🧰 技术栈
+
+<p>
+	<img src="https://skillicons.dev/icons?i=java,go,spring,vue,react,js,html,css,mysql,redis,nginx,docker,kubernetes,ansible,linux,git,gitlab,python,flask,jquery,prometheus,maven" alt="Tech Stack" />
+</p>
+
+- **后端**：Java（Spring Boot、MyBatis-Plus、Spring Security）、Go（Gin、Xorm）、Python（Flask）
+- **前端**：Vue、React、JavaScript、JQuery、HTML / CSS
+- **存储与中间件**：MySQL、Redis、Zookeeper、Nginx、Apollo
+- **运维与容器**：Docker、Kubernetes、Ansible、Prometheus、Linux Shell、Windows BAT
+- **工具**：Git、GitLab、Maven、Postman、IDEA、SQLite3、Photoshop
+- **写过但暂时放下了**：原生 Android、Electron、小程序（uni-app）、易语言
+
 ### 我会什么
 
-- Window BAT自动化脚本
-- Linux Shell自动化脚本
-- 易语言程序 (能写但不想写，因为开发体验很差，我会考虑用其他技术平替)
-- 中间件安装配置与应用（nginx、ansible、zookeeper、mysql、redis等）
-- 容器化（docker、k8s）
-- 原生Android (曾经写过但很久没写了)
-- Electron (曾经写过但很久没写了)
-- 小程序 (能写但不想写，因为开发体验很差，特指 uni-app)
-- Web 全栈开发 (Vue.js/React.js 全栈开发，后端Java、Python、Go)
+- 自动化脚本：Windows BAT / Linux Shell
+- 中间件安装配置与应用：Nginx、Ansible、Zookeeper、MySQL、Redis 等
+- 容器化：Docker、Kubernetes
+- Web 全栈开发：Vue.js / React.js + Java / Python / Go 后端
+- 历史技能：原生 Android、Electron、小程序（uni-app）、易语言（能写但不想写，开发体验太差，会优先用其他技术平替）
 
-### 兴趣爱好
+---
 
-- ***🎤K歌***
-    - 不算五音不全，也不算好听，我对象爱听就行
-- ***🎮网络游戏***  LOL、DNF、三角洲行动
+## 📦 开源项目
+
+**🚀 应用平台**
+
+| 项目                                                            | 说明                                          | 技术栈                                                          |
+|---------------------------------------------------------------|---------------------------------------------|--------------------------------------------------------------|
+| [cutego](https://github.com/odboy-tianjun/cutego)             | 完全自研的快速开发平台，内置用户/部门/岗位/菜单/角色/字典/参数/定时任务八大模块 | Go · Gin · Xorm · 自定义 RBAC · Redis · JWT · Vue2 · Element UI |
+| [cutejava](https://github.com/odboy-tianjun/cutejava)         | 前后端分离后台管理系统，含邮件、OSS 与本地存储、系统监控              | Spring Boot 2/3/4 · JWT · Spring Security · Vue2             |
+| [kenaito-conf](https://github.com/odboy-tianjun/kenaito-conf) | 集中配置管理平台，多应用/多环境/多业务组配置分发，附 14 种语言客户端 SDK   | Go · Vue                                                     |
+
+**🛠 效率工具**
+
+| 项目                                                                                                                              | 说明                                                     | 技术栈                     |
+|---------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|-------------------------|
+| [kenaito-kopsc](https://github.com/odboy-tianjun/kenaito-kopsc)                                                                 | 跨平台命令助手，一条意图命令自动适配各平台底层命令，支持 dry-run 与 Docker/K8s 故障诊断 | Go                      |
+| [kenaito-notebook](https://github.com/odboy-tianjun/kenaito-notebook)                                                           | 多层级嵌套 Markdown 笔记桌面应用，支持全文搜索、标签、回收站与多格式导出              | Go · Wails · Gin · Vue2 |
+| [kenaito-wallpaper-organizer](https://github.com/odboy-tianjun/kenaito-wallpaper-organizer)                                     | 壁纸自动归类命令行工具，按明暗/横竖方/分辨率档位归档，并发分析                       | Go                      |
+| [kenaito-iphone-export-photo-remove-duplicates](https://github.com/odboy-tianjun/kenaito-iphone-export-photo-remove-duplicates) | 删除 iPhone 导出相册中与图片对应的实况视频，减小占用空间                       | Shell                   |
+
+**⚙️ 运维与部署**
+
+| 项目                                                                                        | 说明                                                                      | 技术栈                         |
+|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|-----------------------------|
+| [kenaito-dockerfiles](https://github.com/odboy-tianjun/kenaito-dockerfiles)               | 运行时镜像定制与中间件一键部署模板集（Skywalking、EFK、Nacos、RocketMQ、Zookeeper、Dubbo Admin） | Dockerfile · Docker Compose |
+| [kenaito-k8sfiles](https://github.com/odboy-tianjun/kenaito-k8sfiles)                     | 应用上云实践：K8s 部署清单示例（StatefulSet 等）                                        | YAML                        |
+| [kenaito-ansible-go-example](https://github.com/odboy-tianjun/kenaito-ansible-go-example) | Go 调用 Ansible 示例，支持 ad-hoc / playbook、多连接模式、多主机批量执行                     | Go · Ansible                |
+
+**📚 脚手架与示例**
+
+| 项目                                                                        | 说明                                               | 技术栈                       |
+|---------------------------------------------------------------------------|--------------------------------------------------|---------------------------|
+| [zilean](https://github.com/odboy-tianjun/zilean)                         | Java 后台开发脚手架，含鉴权、角色权限、数据字典、操作日志与 MyBatis/JPA 双封装 | Java                      |
+| [lingye-gin-gorm](https://github.com/odboy-tianjun/lingye-gin-gorm)       | Go + Gin + Gorm 后台示例，多数据库、JWT、统一分页与异常处理          | Go · Gin · Gorm           |
+| [lingye-gin](https://github.com/odboy-tianjun/lingye-gin)                 | Go + Gin 入门示例，REST 示例、签名校验、多环境配置与日志切割            | Go · Gin                  |
+| [ggbond](https://github.com/odboy-tianjun/ggbond)                         | Spring Boot 练习 / 示例项目                            | Spring Boot               |
+| [d2-admin-start-kit](https://github.com/odboy-tianjun/d2-admin-start-kit) | 后台管理系统前端脚手架，7 套主题、动态菜单路由、国际化                     | Vue 2 · Element UI · Vuex |
+| [d2blog-template](https://github.com/odboy-tianjun/d2blog-template)       | 博客网站模板，含文章列表、归档、评论与登录鉴权                          | Vue 2 · Element UI · Vuex |
+
+---
+
+## 🎯 兴趣爱好
+
+- ***🎤 K歌***：不算五音不全，也不算好听，我对象爱听就行。
+- ***🎮 网络游戏***：LOL、DNF、三角洲行动
     - LOL 区服
         - Leo丶Ling#16907 艾欧尼亚
         - Leo丶Ling#98246 黑色玫瑰
@@ -187,22 +121,22 @@ Odboy，one dream boy，意为一个有梦想的男孩。一心一意干事业�
         - Leo丶Ling#44799 男爵领域
     - DNF 区服
         - 跨五，江西一区。男大枪(Mx涉之王者)、阿修罗(BomoBorker)
-- ***🤖编程开发***
-    - 将想法付诸实践, 享受创造的乐趣。
+- ***🤖 编程开发***：将想法付诸实践，享受创造的乐趣。
 
-### 结束语
+---
 
-严格来说，我不算专业或技术很强程序员。只是在工作与生活找到了一种平衡，我不认为工作是一件很 “重要” 的事，自己才最重要，健康、家人朋友才是。
+## 💬 写在最后
 
-个人来说，程序员这条路不是长久的选择，人会老会失业。一辈子只做一件事也太无趣吧，人生苦短，可以多去尝试。
+严格来说，我不算专业或技术很强的程序员，只是在工作与生活中找到了一种平衡。我不认为工作是一件很「重要」的事，自己才最重要，健康、家人朋友才是。
 
-接下来，会在其它的领域去做点东西。未来之路还是要思考怎么走。
+个人来说，程序员这条路不是长久的选择，人会老会失业。一辈子只做一件事也太无趣，人生苦短，可以多去尝试。接下来，会在其它领域去做点东西，未来之路还是要思考怎么走。
 
 ### 联系方式
 
-| Email                                                    |
-|----------------------------------------------------------|
-| <a href="mailto:tianjun@odboy.cn" target="_blank">邮我</a> |
+| Email                                                    | 博客                                              |
+|----------------------------------------------------------|-------------------------------------------------|
+| <a href="mailto:tianjun@odboy.cn" target="_blank">邮我</a> | <a href="https://www.odboy.cn">www.odboy.cn</a> |
 
 ---
-感谢你能看到这里，希望我的分享对你有帮助，如果你有什么困扰，也可咨询我，在我时间有限的情况下，我会竭力回复。
+
+**感谢你能看到这里！** 希望我的分享对你有帮助，如果你有什么困扰，也可以咨询我，在我时间有限的情况下，我会竭力回复。
