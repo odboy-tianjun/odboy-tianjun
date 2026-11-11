@@ -106,27 +106,6 @@
 | [d2-admin-start-kit](https://github.com/odboy-tianjun/d2-admin-start-kit) | 后台管理系统前端脚手架，7 套主题、动态菜单路由、国际化                     | Vue 2 · Element UI · Vuex |
 | [d2blog-template](https://github.com/odboy-tianjun/d2blog-template)       | 博客网站模板，含文章列表、归档、评论与登录鉴权                          | Vue 2 · Element UI · Vuex |
 
-------|------|--------|------|
-| [cutego](https://github.com/odboy-tianjun/cutego) | Go 快速开发脚手架，内置 RBAC | Gin · Xorm · 自定义 RBAC · JWT ·
-Redis · Vue2 | 持续更新 |
-| [cutejava](https://github.com/odboy-tianjun/cutejava) | Java 快速开发脚手架，内置 RBAC | Spring Boot2/3/4 ·
-MyBatis-Plus · JWT · Spring Security · Redis · Vue2 | 持续更新 |
-| [kenaito-pilot](https://github.com/odboy-tianjun/kenaito-pilot) | 自动化运维平台 V2 | Java · Go · Python3 · GitLab ·
-Kubernetes · Ansible Playbook | 持续更新 |
-| [kenaito-dns](https://github.com/odboy-tianjun/kenaito-dns) | DNS 可视化配置中心 | Gin · Xorm · D2Admin(Vue2) ·
-miekg/dns | 已完结 |
-| [kenaito-devops](https://github.com/odboy-tianjun/kenaito-devops) | 自动化运维平台 | Java · Go · Python3 | 已完结 |
-| [kenaito-media-picker](https://github.com/odboy-tianjun/kenaito-media-picker) | 按分辨率快速整理图片和视频 | Go |
-已完结 |
-| [kenaito-pdf2png](https://github.com/odboy-tianjun/kenaito-pdf2png) | 批量提取 PDF 中的页面为 JPG | Go | 已完结 |
-| [dockerfiles](https://github.com/odboy-tianjun/dockerfiles) | Docker 中间件配置，开箱即用 | YAML | 持续更新 |
-| [k8s-component](https://github.com/odboy-tianjun/k8s-component) | Kubernetes Ingress Nginx，解决国内部署镜像拉取失败 |
-YAML | 已完结 |
-| [kenaito-config](https://github.com/odboy-tianjun/kenaito-config) | 配置中心 | Spring Boot2 · Vue2 | 暂停开发 |
-| [kenaito-image-register](https://github.com/odboy-tianjun/kenaito-image-register) | 容器镜像存储 | Go | 暂停开发 |
-
-> 更多仓库见 [GitHub](https://github.com/odboy-tianjun)。
-
 ---
 
 ## 🎯 兴趣爱好
